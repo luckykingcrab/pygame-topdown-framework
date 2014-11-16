@@ -1,0 +1,21 @@
+Author: Cory Scribner
+
+This is my first "complete" game.
+
+Controls are as follows:
+
+	W to move up
+
+	A to move left
+
+	S to move down
+
+	D to move right
+
+	Clicking the mouse will fire a bullet in that direction
+
+your character is the sphere with a blue cross.
+
+The objective of the game is to avoid the spheres with a red cross.
+
+If spheres with red crosses collide, they will destroy each other and you will get a score.
